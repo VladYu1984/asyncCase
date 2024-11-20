@@ -1,0 +1,14 @@
+$primary-color: #3498db;
+$secondary-color: #e7fc6c;
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: $primary-color;
+    margin: 0;
+    padding: 0;
+
+    h1 {
+        color: $secondary-color;
+        text-align: center;
+    }
+}
